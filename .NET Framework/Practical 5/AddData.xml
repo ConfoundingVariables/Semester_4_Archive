@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/Images/img.jpg</ImageUrl>
+		<NavigateUrl>https://www.google.com/</NavigateUrl>
+		<AlternateText>Hello World</AlternateText>
+		<Impressions>10</Impressions>
+		<Keyword>Google</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Images/img2.jpg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/</NavigateUrl>
+		<AlternateText>Hello World</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>Youtube</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Images/img3.jpg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/</NavigateUrl>
+		<AlternateText>Hello World</AlternateText>
+		<Impressions>30</Impressions>
+		<Keyword>Youtube</Keyword>
+	</Ad>
+
+</Advertisements>
